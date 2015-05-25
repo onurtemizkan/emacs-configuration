@@ -1,0 +1,13 @@
+;;; jquery-doc-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'jquery-doc-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; jquery-doc-autoloads.el ends here

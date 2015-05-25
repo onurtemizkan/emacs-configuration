@@ -1,0 +1,41 @@
+;; Object javascripts/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "javascripts/"
+  :tables (list 
+   (semanticdb-table "page.js"
+    :major-mode 'js-mode
+    :tags 
+        '( ("ws" variable nil nil [474 481])
+            ("scheme" variable nil nil [482 493])
+            ("incoming" variable nil nil [494 507])
+            ("educationMin" variable (:default-value "\"Education\"") nil [544 575])
+            ("healthMin" variable (:default-value "\"Health\"") nil [576 601])
+            ("economyMin" variable (:default-value "\"Economy\"") nil [602 629])
+            ("productionMin" variable (:default-value "\"Production\"") nil [630 663])
+            ("scienceMin" variable (:default-value "\"Science\"") nil [664 691])
+            ("socialServicesMin" variable (:default-value "\"Social Services\"") nil [692 734])
+            ("activeBuilding" variable nil nil [735 754])
+            ("mapSvg" variable (:default-value "\"../assets/svg/map.svg\"") nil [810 847])
+            ("cursorX" variable nil nil [848 860])
+            ("cursorY" variable nil nil [861 873])
+            ("buildings" variable nil nil [874 888])
+            ("mouseFunc" function (:arguments 
+              ( ("b" variable nil (reparse-symbol FormalParameterList) [1064 1065]))              ) nil [1044 2724])
+            ("putMinistryInfo" function (:arguments 
+              ( ("ministry" variable nil (reparse-symbol FormalParameterList) [2998 3006]))              ) nil [2973 3743])
+            ("levelUpClick" function nil nil [5320 6593])
+            ("putUsersToModal" function (:arguments 
+              ( ("input" variable nil (reparse-symbol FormalParameterList) [6846 6851]))              ) nil [6821 7351])
+            ("updateMinistry" function (:arguments 
+              ( ("ministry" variable nil (reparse-symbol FormalParameterList) [7377 7385]))              ) nil [7353 8019]))          
+    :file "page.js"
+    :pointmax 10092
+    :fsize 10091
+    :lastmodtime '(21858 52419 346796 612000)
+    :unmatched-syntax '((PAREN_BLOCK 10084 . 10090) (DOT 10079 . 10080) (PAREN_BLOCK 8497 . 10079) (VAR 6779 . 6782) (PAREN_BLOCK 6798 . 6818) (VAR 6595 . 6598) (PAREN_BLOCK 6611 . 6776) (VARIABLE 5303 . 5315) (PAREN_BLOCK 5315 . 5317) (VAR 5256 . 5259) (PAREN_BLOCK 5282 . 5300) (PAREN_BLOCK 5187 . 5253) (DOT 5184 . 5185) (VARIABLE 5164 . 5165) (PAREN_BLOCK 5165 . 5184) (PAREN_BLOCK 5123 . 5161) (DOT 5116 . 5117) (VARIABLE 5096 . 5097) (PAREN_BLOCK 5097 . 5111) (PAREN_BLOCK 5077 . 5093) (DOT 5072 . 5073) (VARIABLE 5055 . 5056) (PAREN_BLOCK 5056 . 5072) (PAREN_BLOCK 4967 . 5023) (DOT 4961 . 4962) (VARIABLE 4944 . 4945) (PAREN_BLOCK 4945 . 4961) (PAREN_BLOCK 4850 . 4939) (DOT 4844 . 4845) (VARIABLE 4825 . 4826) (PAREN_BLOCK 4826 . 4844) (PAREN_BLOCK 4820 . 4822) (DOT 4811 . 4812) (VARIABLE 4797 . 4798) (PAREN_BLOCK 4798 . 4811) (VARIABLE 4762 . 4769) (PAREN_BLOCK 4773 . 4794) (VAR 3772 . 3775) (PAREN_BLOCK 3792 . 4286) (VAR 3746 . 3749) (PAREN_BLOCK 3758 . 3770) (VAR 2726 . 2729) (PAREN_BLOCK 2737 . 2969) (VARIABLE 954 . 962) (FUNCTION 977 . 985) (PAREN_BLOCK 985 . 988) (VARIABLE 922 . 929) (PAREN_BLOCK 933 . 952) (PAREN_BLOCK 917 . 919) (DOT 912 . 913) (VARIABLE 890 . 891) (PAREN_BLOCK 891 . 912) (VAR 755 . 758) (PAREN_BLOCK 786 . 788) (VAR 508 . 511) (PAREN_BLOCK 540 . 542))
+    )
+   )
+  :file "!home!onur!IdeaProjects!utopia!public!javascripts!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )

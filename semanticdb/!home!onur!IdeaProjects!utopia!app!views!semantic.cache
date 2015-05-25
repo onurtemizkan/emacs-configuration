@@ -1,0 +1,23 @@
+;; Object views/
+;; SEMANTICDB Tags save file
+(semanticdb-project-database-file "views/"
+  :tables (list 
+   (semanticdb-table "main.scala.html"
+    :major-mode 'html-mode
+    :tags 
+        '( ("Utopia" section nil nil [67 97])
+            ("Home" section nil nil [97 191])
+            ("Home" section nil nil [191 459])
+            ("Home" section nil nil [459 3552])
+            ("" section nil nil [3552 3662]))          
+    :file "main.scala.html"
+    :pointmax 3662
+    :fsize 3661
+    :lastmodtime '(21800 60522 865043 107000)
+    :unmatched-syntax 'nil
+    )
+   )
+  :file "!home!onur!IdeaProjects!utopia!app!views!semantic.cache"
+  :semantic-tag-version "2.0"
+  :semanticdb-version "2.2"
+  )
